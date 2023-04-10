@@ -10,10 +10,19 @@ public class ArithmeticOperators {
             System.out.println(A / B);
             System.out.println(A % B);
           }
+
 #Thulasi_f2 code changes
+
+# SWATHI_F1 CHANGES IN SOURCE CODE
+
+
 static void myMethod() {
     System.out.println("I just got executed!");
   }
 
+
  
+
+
+
 }
